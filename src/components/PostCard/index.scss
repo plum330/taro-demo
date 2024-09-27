@@ -1,0 +1,16 @@
+
+.postcard {
+  margin: 30px; // 外边距
+  padding: 20px; // 内边距
+  border: 1px solid #b01f1f; // 边框：边框宽 实线 颜色
+}
+
+.post-title {
+  font-weight: bolder; // 设置文本的粗细
+  margin-bottom: 10px; // 下边距 (这里可用于行距)
+}
+
+.post-content {
+  font-size: medium; // 设置文本字体大小
+  color: #a71616; // 设置颜色
+}
